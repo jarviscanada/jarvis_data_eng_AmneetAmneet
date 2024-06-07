@@ -1,0 +1,73 @@
+
+name: "Amneet"
+
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AmneetAmneet
+
+summary: With a Master's in Computer Science and experience as a Software Engineer, software testing and ArcGIS Survey123. My personal project on building a CI/CD pipeline with GitHub Actions, Docker, Terraform, and Ansible highlights my proficiency in modern DevOps practices. I am passionate about roles in development, QA, or DevOps, where I can leverage my technical skills and contribute to innovative projects. My strong problem-solving abilities, collaboration skills, and adaptability make me a valuable asset to any team. I am eager to grow and make a meaningful impact in a dynamic role.
+skills:
+
+  proficient:
+    - Docker
+    - Jenkins
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Python
+
+  competent:
+    - AWS,Azure, GCP
+    - Linux/Bash
+    - Github Actions
+    - ArcGIS
+    - MS Excel
+
+  familiar:
+    - Ansible
+    - Terraform
+    - Kubernetes
+    - ArgoCD
+    - C#
+
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    description: This project is a Linux-based monitoring agent designed to collect real-time hardware specifications and node resources. It encapsulates the monitoring process using Docker for isolation and persistence, ensuring seamless data collection and storage. The gathered data is stored in a PostgreSQL (PSQL) database for efficient retrieval and analysis. The primary users of this project are system administrators and IT professionals who need to monitor and manage Linux-based systems effectively. Technologies used in this project include CentOS, Bash/Shell scripting, Docker, RDBMS/SQL/PostgreSQL, crontab, and data analytics to ensure a robust and scalable monitoring solution
+
+highlighted_projects:
+  - name: "The Weather App"
+    description: Developed a robust Python Weather API application using Flask. Provisioned AWS EC2 instances with Terraform, optimizing performance and scalability by approximately 40%. Configured AWS VPC instances with load balancers for high availability. Installed and configured Jenkins for automated builds and deployments, utilizing Linux commands for system administration. Created Jenkins jobs integrating GitHub repositories for automated builds triggered by code changes. Integrated webhooks to automate builds and deployments upon GitHub commits or pull requests.
+  - name: "Lead Management System"
+    description: Implemented a Lead Management System, combining programming and manual software testing methodologies. Utilized Selenium for automated testing, enhancing test coverage and efficiency by approximately 50%. Created comprehensive test cases and scenarios to ensure robust functionality and usability. Implemented rigorous testing protocols to validate system integrity and reliability. This project facilitated streamlined lead management processes, optimizing lead tracking and conversion.
+
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "IT Analyst"
+    company: "Western Business Improvement Advisor"
+    duration: "2022-2023"
+    description: Utilized ArcGIS to analyze and visualize spatial data for urban planning initiatives. Created interactive maps and performed spatial analysis to identify trends and patterns in population growth, land use, and infrastructure development. Developed a comprehensive GIS database to support informed decision-making for urban planning projects
+
+education:
+  - school_name: "Punjab Technical University"
+    duration: "2012-2016"
+    degree: "Bachelor in Computer Science"
+    department: "Computer Science and Engineering"
+    awards_achievements:
+      - "GPA: 3.8/4.0"
+
+  - school_name: "Punjab Technical University"
+    duration: "2018-2020"
+    degree: "Master in Computer Science"
+    department: "Computer Science and Engineering"
+    awards_achievements:
+      - "GPA: 3.8/4.0"
+
+others:
+  - title: "AZ-900"
+    bullets:
+      - "Azure Fundamentals (2023)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Cooking"
+      - "Yoga"
+      - "Volunteer, Steven Johnson Syndrome Canada"
+
